@@ -1,19 +1,18 @@
-# Soft Portfolio
+# aiuche Portfolio
 
-<img src="./public/softportfolio/screenshot.png" />
+
 
 A neumorphic inspired personal website and portfolio.
 - Showcase your project screenshots with carousels
 - Link up your social and other links
 - Supports light and dark mode 💡
 
-Demo: https://samxie.net/
 
 ## Deploy your own
 
 Clone and deploy with vercel.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fsamzx%2Fsoft-portfolio)
+
 
 ### Configurations
 - Under `src/data/fixtures.ts`, edit to customise copy.
