@@ -6,9 +6,9 @@
   </styled-a>
 </template>
 
+
 <script>
 import styled from 'vue-styled-components'
-
 const StyledA = styled.a`
   margin: 2rem 1rem;
   @media screen and (max-width: ${({theme}) => theme.screen.width.desktop}px) {
