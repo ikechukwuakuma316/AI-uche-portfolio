@@ -69,7 +69,7 @@ export default {
       },
       {
         name: "UI/UX",
-        description: "UI and UX are two distinct facets of web design, yet they work hand-in-hand.",
+        description: "To create user-friendly interfaces that enable users to understand how to use complex technical products.",
         link: {
           name: "Demo",
           // url: "https://mphwatch.samxie.net/demo"
